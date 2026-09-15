@@ -1,0 +1,1 @@
+A deep learning-based next-word prediction system using LSTM and GRU recurrent neural networks, trained on Shakespeare’s Hamlet text. The project covers text preprocessing, tokenization, sequence generation, model training, early stopping, and next-word prediction.
